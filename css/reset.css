@@ -123,5 +123,5 @@
     
     #theme-toggle:checked + .theme-toggle-container .toggle-label::before {
       background-color: var(--toggle-active);
-      transform: translateX(30px);
+      transform: translateX(30px);}
   
